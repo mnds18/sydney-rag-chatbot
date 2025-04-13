@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20By-LangChain-blue" />
+  <img src="https://img.shields.io/badge/Vectorstore-FAISS-green" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow" />
+  <img src="https://img.shields.io/badge/Model-OpenAI%20GPT--3.5-orange" />
+</p>
+
+
+
 # Mr. Mrig Sydney RAG Chatbot 🐨🛩️
 
 This project builds a full-stack **Retrieval-Augmented Generation (RAG) chatbot**  
