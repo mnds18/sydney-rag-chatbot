@@ -1,0 +1,10 @@
+flask
+requests
+beautifulsoup4
+openai
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+tiktoken
