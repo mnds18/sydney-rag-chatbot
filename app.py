@@ -1,11 +1,11 @@
 # --- Imports ---
+
 from flask import Flask, render_template, request, jsonify
 from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from sentence_transformers import SentenceTransformer
 from bs4 import BeautifulSoup
 import requests
 import os
