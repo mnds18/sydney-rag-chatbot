@@ -29,6 +29,12 @@ Built to demonstrate practical AI product engineering: scraping ➔ vectorizing 
 
 ---
 
+## 📊 Demo Screenshot Chat 1
+![Chat 1](demo/Sydney Chatbot.jpg)
+
+## 📊 Demo Screenshot Chat 1
+![Chat 2](demo/Sydney Chatbot_2.jpg)
+
 ## 📂 Project Structure
 
 sydney-rag-chatbot/ ├── app.py # Main application (Flask + RAG logic) ├── requirements.txt # Python dependencies ├── render.yaml # Render deployment configuration ├── templates/ │ └── index.html # Simple frontend for chatting ├── website_text.txt # (Generated) scraped Wikipedia text ├── faiss_db_folder/ # (Generated) FAISS vector database ├── .env.example # Template for environment variables └── README.md # Documentation
