@@ -30,10 +30,10 @@ Built to demonstrate practical AI product engineering: scraping ➔ vectorizing 
 ---
 
 ## 📊 Demo Screenshot Chat 1
-![Chat 1](demo/Sydney Chatbot.jpg)
+![Chat 1](demo/Sydney_Chatbot_1.jpg)
 
 ## 📊 Demo Screenshot Chat 1
-![Chat 2](demo/Sydney Chatbot_2.jpg)
+![Chat 2](demo/Sydney_Chatbot_2.jpg)
 
 ## 📂 Project Structure
 
